@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import cities from '../../data/output.json'
+import cities from '../../data/world-cities.json'
 import axios from 'axios';
 
 import { UseWeatherAPPContext } from '../Context/Context'
